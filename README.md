@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @JoeFikis
-- 👀 I’m interested in learning code
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on websites
-- 📫 How to reach me IDK lol
 
-<!---
-JoeFikis/JoeFikis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# Hello there, I'm JoeFikis! 👋
+I'm a beginner web developer. I have a passion for Computers, Robotics, And A.I., and I enjoy using my skills to create innovative solutions to complex problems.
+
